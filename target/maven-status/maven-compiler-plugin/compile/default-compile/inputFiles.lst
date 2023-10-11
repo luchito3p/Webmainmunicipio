@@ -9,11 +9,14 @@ C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\controll
 C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\repositories\UsuarioRepository.java
 C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\models\Entrada.java
 C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\dao\PersonaDao.java
+C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\models\Huella.java
 C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\controller\SalidaControlador.java
 C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\controller\UsuarioController.java
 C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\models\Personas.java
+C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\dao\HuellaDaoImp.java
 C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\dao\PersonaDaoImp.java
 C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\models\Provincia.java
 C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\models\Usuario.java
 C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\ServletInitializer.java
+C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\dao\HuellaDao.java
 C:\Users\lucho\Desktop\Webmainmunicipio\src\main\java\com\WebApp\WebApp\WebAppApplication.java
